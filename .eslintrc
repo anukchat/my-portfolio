@@ -29,7 +29,8 @@
       "declaration": true,
       "assignment": true,
       "return": true
-    }]
+    }],
+    "import/no-named-as-default": 0
   },
   "plugins": [
     "react"

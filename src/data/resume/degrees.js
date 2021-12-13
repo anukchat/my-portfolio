@@ -1,14 +1,14 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'IGNOU',
+    degree: 'Post Graduate Diploa in Applied Statistics',
+    link: 'https://ignou.ac.in',
+    year: 2020,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
+    school: 'Bhilai Insitute of Technology, Durg',
+    degree: 'Bachelor of Engineering, Electronics & Telecomm.',
+    link: 'https://bitdurg.org',
     year: 2012,
   },
 ];
