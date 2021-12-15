@@ -1,26 +1,27 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Face Recognition',
+    subtitle: 'Face Recognition for authentication',
+    link: 'https://github.com/anukchat/face-watcher',
+    image: '/images/projects/face-recognition.jpg',
+    date: '2020-11-20',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built as a part of hackathon '
+      + 'Clicks ypur photo and registers your face with name 1 time'
+      + 'Next time, it automatically detects and recognizes the person , irrespective of their changed look '
+      + 'Uses similarity score algorithm to group similar images together and map it with name',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Cassava Leaf Disease identifier',
+    subtitle: 'Created as a part of Kaggle competition',
+    link: 'https://github.com/anukchat/cassava_leaf_classifier',
+    image: '/images/projects/cassava-leaves.jpg',
+    date: '2020-12-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Built with Pytorch + react, it classifies disease on a Cassava Leaf into 4 major categories '
+      + 'built with PyTorch and ResNet model, frontend created in React, '
+      + 'it can be used in relatime detection of the cassava leaf disease by clicking its photograph',
   },
   {
     title: 'Space Potato',
