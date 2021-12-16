@@ -8,9 +8,9 @@ const data = [
     date: '2020-11-20',
     desc:
       'Built as a part of hackathon '
-      + 'Clicks ypur photo and registers your face with name 1 time'
+      + 'Clicks your photo and registers your face with name first time, '
       + 'Next time, it automatically detects and recognizes the person , irrespective of their changed look '
-      + 'Uses similarity score algorithm to group similar images together and map it with name',
+      + 'Uses similarity score algorithm to group similar images together and maps it with name',
   },
   {
     title: 'Cassava Leaf Disease identifier',
@@ -19,7 +19,7 @@ const data = [
     image: '/images/projects/cassava-leaves.jpg',
     date: '2020-12-20',
     desc:
-      'Built with Pytorch + react, it classifies disease on a Cassava Leaf into 4 major categories '
+      'Built with Pytorch + react, it classifies disease on a Cassava Leaf into 4 major categories, '
       + 'built with PyTorch and ResNet model, frontend created in React, '
       + 'it can be used in relatime detection of the cassava leaf disease by clicking its photograph',
   },
