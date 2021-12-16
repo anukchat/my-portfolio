@@ -3,7 +3,7 @@
 
 I am a Data Engineer at [Avalara](https://avalara.com) where I build tools to improve data quality on highly dynamic unstructured as well as complex structured datasets and monitor the quality metrics on it. I am also responsible for creating gold standard datasets and create analytics out of it. I use various Statistics and Machine Learning based techniques to solve complex data quality problems. Prior to Avalara I worked at Tieto, FIS Global & TCS on creating utilities and frameworks for solving complex data quality problems. I personally like doing projects that create social impact like helping Agriculture use modern AI based techniques to increase their productivity, I also have interests in Image Processing, Web3, Robotics & Space technologies. I participate in various hackathons and competetions at Kaggle.
 
-If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+If you think I can be helpful to you or would like to meet me, please feel free to get in touch. 
 
 # Currently
 
